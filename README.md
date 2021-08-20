@@ -1,4 +1,5 @@
-# Module 02 Challenge
+# Module 02 Challenge - Cryptocurrency Analysis
+Researcher: Dr. Carl Arrington, Jr.
 
 The objective of this challenge was to preprocess the crytpo data set using Pandas, reduce the dimensions to three principal components using PCA, 
 predict clusters using the K-means algorithm, create an Elbow curve to find the best value for K, 
